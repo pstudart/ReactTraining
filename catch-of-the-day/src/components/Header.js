@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Header = (props) => {
-  return (
+const Header = (props) => 
+ (
             
     <header className="top">
         <h1>
@@ -17,7 +17,7 @@ const Header = (props) => {
     </h3>
     </header>
   )
-}
+
 
 
 export default Header;
