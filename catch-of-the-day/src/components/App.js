@@ -11,8 +11,9 @@ render() {
             <div className="menu">
                 <Header />
             </div>
-            <Inventory />
             <Order />
+            <Inventory />
+            
         </div>
 
             )
