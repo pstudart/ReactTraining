@@ -1,1 +1,1 @@
-on Video 17 beginning
+on Video 17 6:50
